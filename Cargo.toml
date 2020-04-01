@@ -1,6 +1,6 @@
 [package]
 name = "path_macro"
-version = "0.0.1"
+version = "1.0.0"
 authors = ["Andres Suarez <zertosh@gmail.com>", "David Tolnay <dtolnay@gmail.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
