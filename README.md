@@ -1,7 +1,7 @@
 path_macro
 ==========
 
-[![Build Status](https://api.travis-ci.com/zertosh/path_macro.svg?branch=master)](https://travis-ci.com/zertosh/path_macro)
+[![Build Status](https://api.travis-ci.org/zertosh/path_macro.svg?branch=master)](https://travis-ci.org/zertosh/path_macro)
 [![Latest Version](https://img.shields.io/crates/v/path_macro.svg)](https://crates.io/crates/path_macro)
 [![Rust Documentation](https://img.shields.io/badge/api-rustdoc-blue.svg)](https://docs.rs/path_macro)
 
