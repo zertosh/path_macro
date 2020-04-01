@@ -1,0 +1,14 @@
+[package]
+name = "path_macro"
+version = "0.0.1"
+authors = ["Andres Suarez <zertosh@gmail.com>", "David Tolnay <dtolnay@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A macro to join path components using `/`"
+repository = "https://github.com/zertosh/path_macro"
+documentation = "https://docs.rs/path_macro"
+categories = ["filesystem"]
+readme = "README.md"
+
+[badges]
+travis-ci = { repository = "zertosh/path_macro" }

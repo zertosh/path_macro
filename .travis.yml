@@ -1,0 +1,14 @@
+language: rust
+
+rust:
+  - beta
+  - stable
+
+before_script:
+  - rustup component add clippy
+  - rustup component add rustfmt
+
+script:
+  - cargo test
+  - cargo clippy -- -Dclippy::all
+  - cargo fmt -- --check
